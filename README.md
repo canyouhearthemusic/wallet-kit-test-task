@@ -20,5 +20,9 @@ API routes stored in `routes/api.php` .
 \
 There are only 2 endpoints: `clients.index` and `clients.show`.
 
-Task has been completed in ~40 minutes.
+`GET /api/clients`
+
+`GET /api/clients/{phone_number}`
+
+Task was completed in ~40 minutes.
 
