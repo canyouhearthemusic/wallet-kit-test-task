@@ -18,6 +18,8 @@ docker compose run --rm artisan migrate --seed
 
 API routes stored in `routes/api.php` .
 \
+API URL: http://localhost:9090
+\
 There are only 2 endpoints: `clients.index` and `clients.show`.
 
 `GET /api/clients`
